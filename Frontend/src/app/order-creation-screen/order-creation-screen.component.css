@@ -1,0 +1,15 @@
+.container
+{
+    padding-top: 50px;
+}
+
+td
+{
+    border:none;
+}
+
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
